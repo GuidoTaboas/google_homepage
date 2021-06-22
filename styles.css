@@ -1,0 +1,34 @@
+html {
+    font-size: 10px;
+}
+
+
+
+#navbar {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 1.3em;
+}
+
+
+header li {
+    padding: 5px;
+}
+
+#icon {
+    display: block;
+    max-width: 50%;
+    max-height: 50%;
+    margin: auto;
+}
+
+
+.google_search_bar {
+    display: flex;
+    padding-top: 100px;
+    margin: auto;
+}
